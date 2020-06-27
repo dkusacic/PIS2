@@ -1,0 +1,247 @@
+name,code,pop
+Antigua and Barbuda,ATG,3
+Algeria,DZA,885
+Azerbaijan,AZE,187
+Albania,ALB,55
+Armenia,ARM,432
+Angola,AGO,10
+American Samoa,ASM,0
+Argentina,ARG,1184
+Australia,AUS,104
+Bahrain,BHR,79
+Barbados,BRB,7
+Bermuda,BMU,9
+Bahamas,BHS,11
+Bangladesh,BGD,1729
+Belize,BLZ,2
+Bosnia and Herzegovina,BIH,178
+Bolivia,BOL,955
+Burma,MMR,6
+Benin,BEN,14
+Solomon Islands,SLB,0
+Brazil,BRA,56109
+Bulgaria,BGR,215
+Brunei Darussalam,BRN,3
+Canada,CAN,8508
+Cambodia,KHM,0
+Sri Lanka,LKA,11
+Congo,COG,37
+Democratic Republic of the Congo,COD,149
+Burundi,BDI,1
+China,CHN,4634
+Afghanistan,AFG,723
+Bhutan,BTN,0
+Chile,CHL,5068
+Cayman Islands,CYM,1
+Cameroon,CMR,313
+Chad,TCD,74
+Comoros,COM,7
+Colombia,COL,2811
+Costa Rica,CRI,12
+Central African Republic,CAF,40
+Cuba,CUB,85
+Cape Verde,CPV,10
+Cook Islands,COK,47
+Cyprus,CYP,19
+Denmark,DNK,604
+Djibouti,DJI,52
+Dominica,DMA,0
+Dominican Republic,DOM,712
+Ecuador,ECU,4406
+Egypt,EGY,2620
+Ireland,IRL,1730
+Equatorial Guinea,GNQ,32
+Estonia,EST,69
+Eritrea,ERI,0
+El Salvador,SLV,153
+Ethiopia,ETH,89
+Austria,AUT,702
+Czech Republic,CZE,349
+French Guiana,GUF,11
+Finland,FIN,328
+Fiji,FJI,0
+Falkland Islands (Malvinas),FLK,0
+Micronesia, Federated States of,FSM,0
+French Polynesia,PYF,0
+France,FRA,29778
+Gambia,GMB,2
+Gabon,GAB,40
+Georgia,GEO,14
+Ghana,GHA,103
+Grenada,GRD,0
+Greenland,GRL,0
+Germany,DEU,9026
+Guam,GUM,6
+Greece,GRC,191
+Guatemala,GTM,721
+Guinea,GIN,29
+Guyana,GUY,12
+Haiti,HTI,100
+Honduras,HND,516
+Croatia,HRV,107
+Hungary,HUN,578
+Iceland,ISL,10
+India,IND,15773
+Iran (Islamic Republic of),IRN,10489
+Israel,ISR,314
+Italy,ITA,34708
+Cote d'Ivoire,CIV,64
+Iraq,IRQ,1559
+Japan,JPN,969
+Jamaica,JAM,10
+Jordan,JOR,9
+Kenya,KEN,137
+Kyrgyzstan,KGZ,49
+Korea, Democratic People's Republic of,PRK,0
+Kiribati,KIR,0
+Korea, Republic of,KOR,282
+Kuwait,KWT,347
+Kazakhstan,KAZ,150
+Lao People's Democratic Republic,LAO,0
+Lebanon,LBN,33
+Latvia,LVA,30
+Belarus,BLR,377
+Lithuania,LTU,78
+Liberia,LBR,34
+Slovakia,SVK,28
+Liechtenstein,LIE,1
+Libyan Arab Jamahiriya,LBY,18
+Madagascar,MDG,16
+Martinique,MTQ,14
+Mongolia,MNG,0
+Montserrat,MSR,1
+The former Yugoslav Republic of Macedonia,MKD,268
+Mali,MLI,113
+Morocco,MAR,218
+Mauritius,MUS,10
+Mauritania,MRT,120
+Malta,MLT,9
+Oman,OMN,165
+Maldives,MDV,8
+Mexico,MEX,26498
+Malaysia,MYS,121
+Mozambique,MOZ,5
+Malawi,MWI,13
+New Caledonia,NCL,0
+Niue,NIU,0
+Niger,NER,67
+Aruba,ABW,3
+Anguilla,AIA,0
+Belgium,BEL,9733
+Hong Kong,HKG,7
+Northern Mariana Islands,MNP,2
+Faroe Islands,FRO,0
+Andorra,AND,52
+Gibraltar,GIB,0
+Isle of Man,IMN,24
+Luxembourg,LUX,110
+Macau,MAC,0
+Monaco,MCO,4
+Palestine,PSE,3
+Montenegro,MNE,9
+Mayotte,MYT,32
+Åland Islands,ALA,0
+Norfolk Island,NFK,0
+Cocos (Keeling) Islands,CCK,0
+Antarctica,ATA,0
+Bouvet Island,BVT,0
+French Southern and Antarctic Lands,ATF,0
+Heard Island and McDonald Islands,HMD,0
+British Indian Ocean Territory,IOT,0
+Christmas Island,CXR,0
+United States Minor Outlying Islands,UMI,0
+Vanuatu,VUT,5
+Nigeria,NGA,554
+Netherlands,NLD,6107
+Norway,NOR,249
+Nepal,NPL,29
+Nauru,NRU,5
+Suriname,SUR,10
+Nicaragua,NIC,74
+New Zealand,NZL,22
+Paraguay,PRY,13
+Peru,PER,8939
+Pakistan,PAK,4108
+Poland,POL,1441
+Panama,PAN,575
+Portugal,PRT,1555
+Papua New Guinea,PNG,0
+Guinea-Bissau,GNB,22
+Qatar,QAT,111
+Reunion,REU,2
+Romania,ROU,1589
+Republic of Moldova,MDA,515
+Philippines,PHL,1248
+Puerto Rico,PRI,151
+Russia,RUS,9215
+Rwanda,RWA,2
+Saudi Arabia,SAU,1474
+Saint Kitts and Nevis,KNA,0
+Seychelles,SYC,0
+South Africa,ZAF,2340
+Lesotho,LSO,0
+Botswana,BWA,1
+Senegal,SEN,106
+Slovenia,SVN,109
+Sierra Leone,SLE,59
+Singapore,SGP,26
+Somalia,SOM,90
+Spain,ESP,28338
+Saint Lucia,LCA,0
+Sudan,SDN,572
+Sweden,SWE,5280
+Syrian Arab Republic,SYR,10
+Switzerland,CHE,1962
+Trinidad and Tobago,TTO,8
+Thailand,THA,58
+Tajikistan,TJK,52
+Tokelau,TKL,10
+Tonga,TON,15
+Togo,TGO,14
+Sao Tome and Principe,STP,13
+Tunisia,TUN,50
+Turkey,TUR,5065
+Tuvalu,TUV,0
+Turkmenistan,TKM,0
+United Republic of Tanzania,TZA,21
+Uganda,UGA,0
+United Kingdom,GBR,43414
+Ukraine,UKR,1134
+United States,USA,127649
+Burkina Faso,BFA,53
+Uruguay,URY,26
+Uzbekistan,UZB,20
+Saint Vincent and the Grenadines,VCT,0
+Venezuela,VEN,41
+British Virgin Islands,VGB,1
+Viet Nam,VNM,0
+United States Virgin Islands,VIR,0
+Namibia,NAM,0
+Wallis and Futuna Islands,WLF,2
+Samoa,WSM,12
+Swaziland,SWZ,8
+Yemen,YEM,293
+Zambia,ZMB,21
+Zimbabwe,ZWE,6
+Indonesia,IDN,2757
+Guadeloupe,GLP,14
+Netherlands Antilles,ANT,0
+United Arab Emirates,ARE,310
+Timor-Leste,TLS,0
+Pitcairn Islands,PCN,0
+Palau,PLW,2
+Marshall Islands,MHL,0
+Saint Pierre and Miquelon,SPM,0
+Saint Helena,SHN,0
+San Marino,SMR,42
+Turks and Caicos Islands,TCA,1
+Western Sahara,ESH,1
+Serbia,SRB,265
+Holy See (Vatican City),VAT,0
+Svalbard,SJM,0
+Saint Martin,MAF,3
+Saint Barthelemy,BLM,0
+Guernsey,GGY,13
+Jersey,JEY,31
+South Georgia South Sandwich Islands,SGS,3
+Taiwan,TWN,7
